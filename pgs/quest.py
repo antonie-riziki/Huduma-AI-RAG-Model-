@@ -14,7 +14,7 @@ from upload_file_rag import get_qa_chain, query_system
 
 
 
-st.image('https://www.afriklens.com/wp-content/uploads/2024/11/DALL%C2%B7E-2024-11-07-06.39.26-A-vibrant-detailed-horizontal-image-illustrating-African-oral-traditions.-In-the-scene-an-elder-storyteller-sits-under-a-large-ancient-tree-surrou.webp', width=900)
+st.image('WhatsApp Image 2025-08-11 at 10.12.18 AM.jpeg', width=900)
 
 
 # col1, col2 = st.columns(2)
