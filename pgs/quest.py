@@ -14,8 +14,8 @@ from upload_file_rag import get_qa_chain, query_system
 
 
 
-st.image('WhatsApp Image 2025-08-11 at 10.12.18 AM.jpeg', width=900)
-
+# st.image('WhatsApp Image 2025-08-11 at 10.12.18 AM.jpeg', width=900)
+st.image('https://cdn.imweb.me/upload/S202509027fa77ca22ea24/9158a17980c28.png', width=900)
 
 # col1, col2 = st.columns(2)
 
