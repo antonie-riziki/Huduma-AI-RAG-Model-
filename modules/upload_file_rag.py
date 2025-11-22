@@ -34,7 +34,7 @@ def load_model():
   Func loads the model and embeddings
   """
   model = ChatGoogleGenerativeAI(
-      model="models/gemini-2.5-flash-preview-05-20",
+      model="models/gemini-2.5-flash",
       google_api_key=GEMINI_API_KEY,
       temperature=0.4,
       convert_system_message_to_human=True
