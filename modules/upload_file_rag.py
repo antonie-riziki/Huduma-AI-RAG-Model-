@@ -116,6 +116,12 @@ PROMPT_TEMPLATE = """
         - **Recommendations**: [Actionable advice for maximizing engagement and cost-efficiency]
         - **Notes**: [Any important considerations]
 
+
+      {context}
+
+      Question: {question}
+      Answer:
+
 """
 
 
